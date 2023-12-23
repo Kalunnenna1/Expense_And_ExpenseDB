@@ -13,5 +13,6 @@ Log in to github: Kalunnenna1 open the repository: Expense_And_ExpenseDB Go to c
 cd into your directory
 
 # To run the code: 
-Navigate to the project directory in your terminal. Run the following command: python3 expense_db.py
+Navigate to the project directory in your terminal. Run the following command: python3 
+./expense_db.py
 
